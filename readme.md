@@ -231,7 +231,7 @@ CREATE TABLE PRODUCTS (
 ![Delete Product](screenshots/delete.png)
 
 ### H2 Database Console
-![H2 Console](screenshots/h2 console.png)
+![H2 Console](screenshots/h2-console.png)
 
 ### H2 Database - SELECT * FROM PRODUCTS
-![H2 Database Query](screenshots/h2 console product 1.png)
+![H2 Database Query](screenshots/h2-console-product-1.png)
